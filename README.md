@@ -13,6 +13,6 @@ FoodShelf adalah aplikasi yang dirancang untuk mengurangi food waste dengan meng
 | Name                       | Role          |
 | -------------------------- | ------------- |
 | Muhammad Zidane Arkan      | Ketua Tim     |
-| Muhammad Rizki Ramadhan    | Anggota       |
-| Kevin Putrayudha Naserwan  | Anggota       |
+| Kiagus Muhammad Efan Fitriyan    | Anggota       |
+| Yolendri Anisyahfitri  | Anggota       |
 
