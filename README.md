@@ -1,7 +1,7 @@
-![Mockup1](https://github.com/Foodhself/.github/assets/70956210/6c55963e-77e3-4f33-8728-1ab11f0a2766)# FoodShelf - Aplikasi Untuk Atasi Pemborosan Makanan dan Mendukung Keberlanjutan Lingkungan
+# FoodShelf - Aplikasi Untuk Atasi Pemborosan Makanan dan Mendukung Keberlanjutan Lingkungan
 
 <p align="center">
-  ![Mockup1](https://github.com/Foodhself/.github/assets/70956210/2e335a71-8747-4134-8720-3b8025354e74)
+  <img align="center" width="700" src="https://github.com/Foodhself/.github/assets/70956210/2e335a71-8747-4134-8720-3b8025354e74" />
 </p>
 
 <p align="justify">
